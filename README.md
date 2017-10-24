@@ -79,5 +79,6 @@
       }
     }
 
-GIF图片：![img]()
+GIF图片：![img](https://github.com/Zhou1008/ImageView/blob/master/%E5%88%AE%E5%88%AE%E4%B9%90.gif)
+
 博客地址，点击[这里](http://www.jianshu.com/p/ce89d62654f7)
