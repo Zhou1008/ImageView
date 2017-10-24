@@ -80,6 +80,6 @@
     }
 
 GIF图片：
-[!刮刮乐](https://github.com/Zhou1008/ImageView/刮刮乐.gif)
+![刮刮乐](https://github.com/Zhou1008/ImageView/刮刮乐.gif)
 
 博客地址，点击[这里](http://www.jianshu.com/p/ce89d62654f7)
