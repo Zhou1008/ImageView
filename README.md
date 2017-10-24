@@ -79,13 +79,7 @@
       }
     }
 
-效果图：
-
-![刮开前](http://upload-images.jianshu.io/upload_images/2990364-a3a5a6966befdaf8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-![刮开中](http://upload-images.jianshu.io/upload_images/2990364-b11835e4db0c6e52.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
 GIF图片：
-![刮刮乐.gif](http://upload-images.jianshu.io/upload_images/2990364-4c7ea1122bd79dc7.gif?imageMogr2/auto-orient/strip)
 
-需要源码的，点击[这里](https://github.com/Zhou1008/ImageView)
+
+博客地址，点击[这里](http://www.jianshu.com/p/ce89d62654f7)
